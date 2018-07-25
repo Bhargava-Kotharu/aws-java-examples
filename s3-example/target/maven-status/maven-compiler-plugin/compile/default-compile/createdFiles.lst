@@ -1,0 +1,5 @@
+com/bkotharu/examples/s3/service/FileService.class
+com/bkotharu/examples/s3/utils/FileUtils.class
+com/bkotharu/examples/s3/service/S3Client.class
+com/bkotharu/examples/s3/S3ExampleApplication.class
+com/bkotharu/examples/s3/controller/FileController.class
