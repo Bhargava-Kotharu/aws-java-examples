@@ -1,4 +1,4 @@
 amazonProperties:
-  endpointUrl: https://sqs.ap-southeast-2.amazonaws.com/247843772168/example-queue
-  accessKey: AKIAIRNISKKKALXEPLLA
-  secretKey: h5uB1SqtSom+5YPmJ5urWEpEGgSQZ6iaizfgJAeg
+  endpointUrl: https://sqs.ap-southeast-2.amazonaws.com/XXXXXXXXXX/XXXXXXXXXX
+  accessKey: XXXXXXXXXX
+  secretKey: XXXXXXXXXX
