@@ -1,9 +1,0 @@
-Manifest-Version: 1.0
-Implementation-Title: simple-queue-service-example
-Implementation-Version: 0.0.1-SNAPSHOT
-Built-By: bkotharu
-Implementation-Vendor-Id: com.bkotharu.examples
-Build-Jdk: 1.8.0_151
-Implementation-URL: http://maven.apache.org
-Created-By: Maven Integration for Eclipse
-
