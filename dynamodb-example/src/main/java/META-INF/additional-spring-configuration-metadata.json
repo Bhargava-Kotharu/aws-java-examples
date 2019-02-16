@@ -1,0 +1,32 @@
+{"properties": [
+  {
+    "name": "amazon.dynamodb.host",
+    "type": "java.lang.String",
+    "description": "A description for 'amazon.dynamodb.host'"
+  },
+  {
+    "name": "amazon.dynamodb.port",
+    "type": "java.lang.String",
+    "description": "A description for 'amazon.dynamodb.port'"
+  },
+  {
+    "name": "amazon.dynamodb.region",
+    "type": "java.lang.String",
+    "description": "A description for 'amazon.dynamodb.region'"
+  },
+  {
+    "name": "amazon.dynamodb.access-key",
+    "type": "java.lang.String",
+    "description": "A description for 'amazon.dynamodb.access-key'"
+  },
+  {
+    "name": "amazon.dynamodb.secret-key",
+    "type": "java.lang.String",
+    "description": "A description for 'amazon.dynamodb.secret-key'"
+  },
+  {
+    "name": "amazon.dynamodb.endpoint",
+    "type": "java.lang.String",
+    "description": "A description for 'amazon.dynamodb.endpoint'"
+  }
+]}

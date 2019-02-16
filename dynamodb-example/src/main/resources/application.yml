@@ -1,0 +1,6 @@
+amazon:
+  dynamodb:
+    endpoint: dynamodb.ap-southeast-1.amazonaws.com
+    region: ap-southeast-1
+    accessKey: XYZ
+    secretKey: ABC
